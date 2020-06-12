@@ -9,4 +9,6 @@
 	- Singly linked list
 	- Doubly linked list
 3. Tree  
-	
+	- Complete Binary Tree
+	- AVL Tree
+4. graph
