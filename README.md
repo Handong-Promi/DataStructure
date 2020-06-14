@@ -4,36 +4,50 @@
 > This repository is created for gathering studying data of Data Structure.  
 > Also, this note is based on C++. Therefore, there are some concepts about C++.
 
-## Index
-1. Function Pointer
-2. Memory Allocation
-3. Recursion
-4. Sort
+## Index  
+
+### 1. Sort
 	- Bubble Sort
 	- Insertion Sort
 	- Selection Sort
 	- Quick Sort
 	- Merge Sort
-5. Linked list  
+
+### 2. Linked list  
 	- Singly linked list
 	- Doubly linked list
-6. Tree  
+
+### 3. Tree  
 	- Binary Tree
 	- Complete Binary Tree
 	- Full Binary Tree
 	- AVL tree
-7. heap  
+
+### 4. heap  
 	- Concepts of Heap.
 	- Priority Queue
 	- Maxheap
 	- Minheap
 	- Heapify
 	- Heapsort
-8. graph
+
+### 5. graph
     - Cycle
 	- Coloring
 
-* Appendices   
-	- Complexity
+### * Appendices (C++ & ETC)   
+#### 1. Function Pointer / Reference
+
+#### 2. Memory Allocation
+
+#### 3. Recursion
+
+#### 4. Complexity
 		- Time Complexity
 		- Space Complexity
+
+#### 5. STL
+		- Stack
+		- Queue
+		- Vector
+		- Set
